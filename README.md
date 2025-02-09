@@ -1,4 +1,4 @@
-![Tweet Generator]()
+![Tweet Generator](TGI.png)
 # Tweet Generator ✨
 
 A beautiful and futuristic tweet generator with a cyberpunk theme that helps create engaging tweets in different tones. Built with React, TypeScript, and Tailwind CSS.
